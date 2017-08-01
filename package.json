@@ -1,0 +1,21 @@
+{
+  "name": "hain-plugin-task",
+  "version": "1.0.0",
+  "description": "A simple Hain plugin that invoKe windows task manager",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Acuf5928/hain-plugin-task"
+  },
+  "keywords": [
+    "hain0"
+  ],
+  "author": "Acuf5928",
+  "license": "MIT",
+  "hain": {
+    "prefix": "/task ",
+    "usage": "/task ",
+    "icon": "#fa fa-terminal",
+    "redirect": "/task "
+  }
+}
